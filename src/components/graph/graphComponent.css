@@ -1,0 +1,17 @@
+
+#graphContainer{
+  margin: 70px auto 0;
+}
+.dygraph-title{
+    margin-top: -50px;
+} 
+.dygraph-legend {
+    position: absolute;
+    top:10px;
+    font-size: 14px;
+    z-index: 10;
+    width: 100%;
+    background: #fff;
+    line-height: normal;
+    text-align: center;
+}
